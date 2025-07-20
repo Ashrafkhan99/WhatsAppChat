@@ -3,7 +3,7 @@
 
 ### 📽 Demo Video
 
-[▶ Watch the demo](https://your-video-link.com)
+https://github.com/user-attachments/assets/53f85cfa-9ea6-4734-b699-192b6fc71a88
 
 ---
 ## 📌 Tech Stack Overview
