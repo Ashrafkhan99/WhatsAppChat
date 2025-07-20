@@ -123,11 +123,3 @@ erDiagram
 * File uploads supported through `mediaFilePath` for image/video/etc.
 
 ---
-
----
-
-Let me know if you want to:
-
-* Add architectural overview (WebSocket configuration)
-* Include a section on WebSocket message structure
-* Show Keycloak auth flow or Swagger integration
