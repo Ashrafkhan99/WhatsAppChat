@@ -1,6 +1,9 @@
-# Chat System Backend - Entity Relationship Documentation
+# Chat System (WhatsApp Clone) along with Entity Relationship Documentation
 ---
 
+## DEMO
+
+---
 ## 📌 Tech Stack Overview
 
 * **Spring Boot (Java)** - Backend Framework
